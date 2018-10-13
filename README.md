@@ -1,4 +1,4 @@
-# common-code
+# code-practice
 
 いろんな言語で共通の問題を解決する
 
